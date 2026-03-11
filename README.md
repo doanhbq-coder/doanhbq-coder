@@ -53,17 +53,10 @@ Currently working at **NEO Robotics**, developing software for **AGV/AMR fleet c
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
----
-
 ## Contact
 
-* Email: [your_email@example.com](mailto:your_email@example.com)
-* LinkedIn: https://linkedin.com/in/your-profile
-* GitHub: https://github.com/YOUR_USERNAME
+* Email: [your_email@example.com](mailto:doanhbq@phenikaa-x.com)
+* GitHub: https://github.com/doanhbq-coder
 
 ---
 
